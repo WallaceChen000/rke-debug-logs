@@ -1,5 +1,5 @@
 
-There are 4 nodes consist of one cluster.  
+There is one cluster consist of 4 nodes.  
 + ks-9047489 (172.27.116.65/172.27.116.55) (etcd, controlplane, worker)  
 + ks-9047366 (172.27.116.66/172.27.116.56) (etcd, controlplane, worker)  
 + ks-9047368 (172.27.116.67/172.27.116.57) (etcd, controlplane, worker)  
